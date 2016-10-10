@@ -13,4 +13,4 @@
 
   ```
 ##效果
-![image] (https://github.com/Rain-dew/YLTextView/blob/master/YLTextView/%E3%80%82.gif)
+![image] (https://github.com/Rain-dew/YLTextView/blob/master/%E3%80%82.gif)
